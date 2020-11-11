@@ -17,3 +17,5 @@ Images
 1. is
 2. another
 5. list
+
+Emojis also work :tada:
