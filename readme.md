@@ -8,7 +8,7 @@ banana
 Images
 <img src="https://images.unsplash.com/photo-1604890574377-b1830f2e48e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
 
-<img src="./example_images/screenshot.jpg"
+![image infor](./example_images/screenshot.jpg)
 
 * this
 * is
