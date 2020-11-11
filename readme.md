@@ -1,6 +1,6 @@
 # This is my first Readme
 ### Let's try
-Some text is always important so we write some text.
+Some text is always important so we write some text. As I am student i am interested in various areas
 
 banana
 [https://www.google.com](https://www.google.com)
